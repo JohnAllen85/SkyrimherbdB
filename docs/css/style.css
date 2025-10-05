@@ -80,7 +80,7 @@ th.limited {
 
 th.byNameLimited {
 	min-width:100px;
-	max-width:200px;
+	max-width:250px;
 }
 
 th.byEffectLimited {
@@ -167,7 +167,7 @@ table#hiddenHerb3 {
 
 table#tableByName {
 	min-width: 500px;
-	max-width: 1000px;
+	max-width: 100%;
 }
 
 table#tableByEffect {
