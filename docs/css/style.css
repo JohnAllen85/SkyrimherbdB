@@ -43,6 +43,11 @@ th {
 
 td.title{
 	font-weight: bold;
+	height:40px;
+}
+
+td.link{
+	height:40px;
 }
 
 td:hover {
