@@ -32,10 +32,16 @@ div.pagemenu {
 	z-index: 10;
 }
 
-div.header > div {
+div.title {
   margin: 10px 10px 10px 0px;
-  padding: 10px 20px 0px 20px;
+  padding: 10px 20px 0px 100px;
 }
+
+div.options {
+  margin: 10px 10px 10px 0px;
+  padding: 10px 20px 0px 50px;
+}
+
 
 caption {
 	font: 24px arial, sans-serif;
@@ -162,10 +168,6 @@ th#otherDescription {
 	width: 22.22%;
 }
 
-td.title {
-	font-weight: bold;
-}
-
 tr.menus {
 	height:30px;
 }
@@ -229,7 +231,7 @@ h1 {
 	font: 3em arial, sans-serif;
 	font-weight: bold;
 	margin: 0px 0px 30px 0px;
-	padding: 20px 0px 30px 20px;
+	padding: 20px 0px 10px 20px;
 }
 
 span.bad{
